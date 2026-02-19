@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Устинов Алексей](https://up.htmlacademy.ru/javascript-individual/2/user/2697951).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Лопатин](https://htmlacademy.ru/profile/denislopatin).
 
 ---
 
